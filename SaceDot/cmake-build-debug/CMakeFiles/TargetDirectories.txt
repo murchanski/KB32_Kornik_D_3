@@ -1,0 +1,3 @@
+C:/Users/UseR/OneDrive/Рабочий стол/Новая папка (2)/Корник/Lab_3_Arrays/SaceDot/cmake-build-debug/CMakeFiles/SaceDot.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Новая папка (2)/Корник/Lab_3_Arrays/SaceDot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UseR/OneDrive/Рабочий стол/Новая папка (2)/Корник/Lab_3_Arrays/SaceDot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+1	864	7217889847563131	CMakeFiles/LinkedList.dir/main.c.obj	85a5e344e5b54fb
+889	1279	7217889852888482	LinkedList.exe	517bace3e89cd2f9
+3	165	7217889964317007	CMakeFiles/LinkedList.dir/main.c.obj	85a5e344e5b54fb
+165	356	7217889966201668	LinkedList.exe	517bace3e89cd2f9
